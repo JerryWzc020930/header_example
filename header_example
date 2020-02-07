@@ -1,0 +1,13 @@
+# 2-8 exercise
+# Zicheng Wang (Jerry)
+# Course: Computer Science 30
+# Period: 4
+# Date created: 2020-02-07
+# Description: 4 equations that have a result of 8
+
+
+a = 3 + 5
+s = 9 - 1
+m = 2 ** 3
+d = 16/2
+print(a, s, m, d)
